@@ -16,20 +16,30 @@ app.layout = dmc.MantineProvider(
                 dmc.AppShellHeader(
                     dmc.Container(
                         [
-                            dmc.Grid([
-                                dmc.GridCol(dmc.Title(
-                                'Compartilha Dados',
-                                order=1,
-                                c='white',
-                                pt='0.5em',
-                            ), span=6),
-                                dmc.GridCol('logo', span=6, style={'textAlign': "right"})
-                        ], c='white')
+                            dmc.Grid(
+                                [
+                                    dmc.GridCol(
+                                        dmc.Title(
+                                            'Compartilha Dados',
+                                            order=1,
+                                        ),
+                                        span=6,
+                                    ),
+                                    dmc.GridCol(
+                                        dmc.Flex(
+                                            dmc.Image(src='https://i.ibb.co/3m6D2y0/logo2023-cinzaclaro.png', style={'width': '12em'}), 
+                                            justify='flex-end'),
+                                        span=6,
+                                    ),
+                                ],
+                                c='white'
+                            )
                         ],
-                        size='xl',
+                        size='xl', py='0.7em'
+                        # py='2.5em',
                     ),
                     style={
-                        'background-color': '#11111A',
+                        'background-color': '#11111A'
                     },
                 ),
                 dmc.AppShellMain([dmc.Container([accordion_comp], size='xl')]),
