@@ -1,0 +1,41 @@
+'''
+
+_______ itinerário _________
+
+1. por que programar
+
+__ a vida fica mais fácil?
+    tradeoff entre objetivos alcançados x esforço 
+
+__ existe um perfil? 
+    pessoas curiosas, construtoras, analíticas
+    mitico homem-mês
+
+__ qual linguagem?
+    ranking tiobe
+
+2. Escolhendo python
+
+__ todo mundo usa
+    o que é, sua popularidade
+    exemplo rápido (termina com xkcd)
+
+3. Produtos
+
+__ visualizações
+__ data for good
+__ 
+
+4. Como aprender
+
+
+'''
+
+
+topicos = [
+    {'colab': ['facilidade de uso', 'dados de orcamento', 'mapas', 'mito', 'futebol']},
+    {'data-science': ['scikit-learn', 'nlp ouvir para mudar', 'leaflet']},
+    {'pygame': ['https://copyassignment.com/star-wars-game-with-python-turtle/']},
+    {'tarefas corriqueiras': ['criar várias planilhas', 'agregar planilhas']},
+    {'conceitos': ['xkcd', 'ranking tiob', 'monty-python']}
+]
