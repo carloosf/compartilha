@@ -1,3 +1,5 @@
+from contents import intro
+
 
 lista_de_topicos = [
     {
@@ -5,9 +7,7 @@ lista_de_topicos = [
         "image": "https://i.ibb.co/7jfcX2m/questao-menor.png",
         "label": "Intro",
         "description": "O que nos motivou a estar aqui",
-        "content": "Bender Bending Rodríguez, (born September 4, 2996), designated Bending Unit 22, and commonly "
-        "known as Bender, is a bending unit created by a division of MomCorp in Tijuana, Mexico, "
-        "and his serial number is 2716057. His mugshot id number is 01473. He is Fry's best friend.",
+        "content": intro.content,
     },
     {
         "id": "2",
