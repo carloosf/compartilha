@@ -20,16 +20,16 @@ app.layout = dmc.MantineProvider(
                                 [
                                     dmc.GridCol(
                                         dmc.Title(
-                                            'Compartilha Dados',
+                                            'Compartilha SEPLAG - Edição Dados',
                                             order=1,
                                         ),
-                                        span=6,
+                                        span=10,
                                     ),
                                     dmc.GridCol(
                                         dmc.Flex(
                                             dmc.Image(src='https://i.ibb.co/3m6D2y0/logo2023-cinzaclaro.png', style={'width': '12em'}), 
                                             justify='flex-end'),
-                                        span=6,
+                                        span=2,
                                     ),
                                 ],
                                 c='white'
