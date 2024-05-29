@@ -1,4 +1,4 @@
-from contents import intro
+from contents import intro, perfil
 
 
 lista_de_topicos = [
@@ -14,10 +14,7 @@ lista_de_topicos = [
         "image": "https://i.ibb.co/pZQm7J6/profiling-menor.png",
         "label": "Em busca de um perfil",
         "description": "Será que existe?",
-        "content": "Carol Miller (born January 30, 2880), better known as Mom, is the evil chief executive officer "
-        "and shareholder of 99.7% of Momcorp, one of the largest industrial conglomerates in the universe "
-        "and the source of most of Earth's robots. She is also one of the main antagonists of the Futurama "
-        "series.",
+        "content": perfil.content,
     },
     {
         "id": "3",
