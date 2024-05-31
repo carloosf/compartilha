@@ -14,7 +14,9 @@ de um lugar?
 como era antes? o que acontecem em outros pólos semelhantes pela cidade? 
 
 - Imagina ir atrás dessas informações, onde ter uma relação das empresas, filtrar pelo 
-                       bairro do Recife, fazer a contagem, etc etc etc 
+ bairro do Recife, fazer a contagem, etc etc etc ......é aí que códigos podem no ajudar!
+
+![image](https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif)
 
 - Código aumenta a eficiência em realizar tarefas, lida melhor com a 
 complexidade das demandas, permite escabilidade e automação. 
@@ -42,7 +44,9 @@ Em 1975, ele resumiu bem como pessoas encontram significado quando estão progra
 > _Em quarto lugar está a alegria de aprender sempre, que brota da natureza não repetitiva da tarefa. De uma forma ou de outra, o problema é sempre novo e o seu solucionador aprende alguma coisa: às vezes prático, às vezes teórico, e às vezes ambos._
 > 
 > _Finalmente, há o prazer de trabalhar num meio tão tratável. O programador, como o poeta, trabalha apenas ligeiramente afastado do puro pensamento. Ele constrói seus castelos no ar, a partir do ar, criando pelo esforço da imaginação. Poucos meios de criação são tão flexíveis, tão fáceis de polir e retrabalhar, tão prontamente capazes de realizar grandes estruturas conceituais._
->                          
+>         
+
+![image](https://media.tenor.com/WjvNWwzEIYoAAAAM/wow-beautiful.gif)
 
 - Aqui, um pouco do que deu para [brincar](https://colab.research.google.com/drive/1_RuG3CdVEDufPMnNiaR8u5sJvt8eDcdK?authuser=1).                                         
 ''')
