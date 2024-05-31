@@ -1,4 +1,4 @@
-from contents import intro, perfil
+from contents import intro, perfil, codigo
 
 
 lista_de_topicos = [
@@ -21,9 +21,7 @@ lista_de_topicos = [
         "image": "https://i.ibb.co/bLqk7tk/robo.png",
         "label": "Por isso que usamos código",
         "description": "A vida secreta dos programadores",
-        "content": "Homer Jay Simpson (born May 12) is the main protagonist and one of the five main characters of "
-        "The Simpsons series(or show). He is the spouse of Marge Simpson and father of Bart, "
-        "Lisa and Maggie Simpson.",
+        "content": codigo.content,
     },
     {
         "id": "python",
