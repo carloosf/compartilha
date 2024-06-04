@@ -1,4 +1,4 @@
-from contents import intro, perfil, codigo
+from contents import intro, codigo, python, dicas, processo
 
 
 lista_de_topicos = [
@@ -8,13 +8,6 @@ lista_de_topicos = [
         "label": "Intro",
         "description": "O que nos motivou a estar aqui",
         "content": intro.content,
-    },
-    {
-        "id": "perfil",
-        "image": "https://i.ibb.co/RjBWXYc/profiling.png",
-        "label": "Em busca de um perfil",
-        "description": "Será que existe?",
-        "content": perfil.content,
     },
     {
         "id": "codigo",
@@ -27,28 +20,22 @@ lista_de_topicos = [
         "id": "python",
         "image": "https://i.ibb.co/ggW72f5/pitao.png",
         "label": "Espalhando o evangelho do Python",
-        "description": "A 2a linguagem de todo munndo",
-        "content": "Homer Jay Simpson (born May 12) is the main protagonist and one of the five main characters of "
-        "The Simpsons series(or show). He is the spouse of Marge Simpson and father of Bart, "
-        "Lisa and Maggie Simpson.",
+        "description": "A 2a linguagem de todo mundo",
+        "content": python.content,
     },
     {
-        "id": "homer",
-        "image": "https://img.icons8.com/clouds/256/000000/homer-simpson.png",
-        "label": "Primeiros passos",
-        "description": "Overweight, lazy, and often ignorant",
-        "content": "Homer Jay Simpson (born May 12) is the main protagonist and one of the five main characters of "
-        "The Simpsons series(or show). He is the spouse of Marge Simpson and father of Bart, "
-        "Lisa and Maggie Simpson.",
+        "id": "dicas",
+        "image": "https://i.ibb.co/jTFPHWZ/study.png",
+        "label": "Algumas dicas de como começar",
+        "description": "Todo mundo erra",
+        "content": dicas.content,
     },
     {
-        "id": "homer",
-        "image": "https://img.icons8.com/clouds/256/000000/homer-simpson.png",
-        "label": "Mas onde é que entra linguagens de programação?",
-        "description": "Overweight, lazy, and often ignorant",
-        "content": "Homer Jay Simpson (born May 12) is the main protagonist and one of the five main characters of "
-        "The Simpsons series(or show). He is the spouse of Marge Simpson and father of Bart, "
-        "Lisa and Maggie Simpson.",
+        "id": "processo",
+        "image": "https://i.ibb.co/Mh8nkBT/highway-sign.png",
+        "label": "Do processo",
+        "description": "Todo mundo erra, todo mundo vai errar",
+        "content": processo.content,
     },
 ]
 
