@@ -1,4 +1,4 @@
-from contents import intro, codigo, python, dicas, processo
+from contents import intro, codigo, python, seplag, dicas, processo, grupo
 
 
 lista_de_topicos = [
@@ -24,6 +24,13 @@ lista_de_topicos = [
         "content": python.content,
     },
     {
+        "id": "seplag",
+        "image": "https://i.ibb.co/TMv4pcN/predio-comercial.png",
+        "label": "O que dá pra fazer na SEPLAG",
+        "description": "Da automatização a ciência de dados",
+        "content": seplag.content,
+    },
+    {
         "id": "dicas",
         "image": "https://i.ibb.co/jTFPHWZ/study.png",
         "label": "Algumas dicas de como começar",
@@ -36,6 +43,13 @@ lista_de_topicos = [
         "label": "Expectativa x Realidade",
         "description": "Todo mundo erra, todo mundo vai errar",
         "content": processo.content,
+    },
+    {
+        "id": "grupo",
+        "image": "https://i.ibb.co/Lr00Z3K/time-and-calendar.png",
+        "label": "Vamos fazer o nosso?",
+        "description": "Anote aí...",
+        "content": grupo.content,
     },
 ]
 
